@@ -9,7 +9,8 @@ warnings at a glance.
 **Live demo:** [add URL after deployment]
 
 ## Screenshot
-[add screenshot]
+![Input screen](docs/screenshot-input.png)
+![Results screen](docs/screenshot-results.png)
 
 ## Why this exists
 
