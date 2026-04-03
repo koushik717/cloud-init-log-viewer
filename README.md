@@ -11,6 +11,7 @@ warnings at a glance.
 ## Screenshot
 ![Input screen](docs/screenshot-input.png)
 ![Results screen](docs/screenshot-results.png)
+![Write-files module screen](docs/screenshot-write-files.png)
 
 ## Why this exists
 
